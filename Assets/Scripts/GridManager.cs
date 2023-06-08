@@ -11,10 +11,12 @@ public class GridManager : MonoBehaviour
 
     [SerializeField] private Transform _worldCam;
 
+
     private Dictionary<Vector3, Tile> _tiles;
     private void Start()
     {
         GenerateGrid();
+
     }
     void GenerateGrid()
     {
