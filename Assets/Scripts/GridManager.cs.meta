@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e08074a28054311429f62891d8f655c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _groundTile: {instanceID: 0}
+  - _mountainTile: {instanceID: 0}
+  - _roadTile: {instanceID: 0}
+  - _endTile: {instanceID: 0}
+  - _movePoint: {fileID: 6691200137223803622, guid: 6ba952b6001077d4e91daba1e574cc42, type: 3}
+  - _worldCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
